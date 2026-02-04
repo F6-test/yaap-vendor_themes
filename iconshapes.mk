@@ -2,4 +2,5 @@
 PRODUCT_PACKAGES += \
     IconShapeArchOverlay \
     IconShapeFourSidedCookieOverlay \
-    IconShapeSevenSidedCookieOverlay
+    IconShapeSevenSidedCookieOverlay \
+    IconShapeIosOverlay
